@@ -9,7 +9,7 @@ const returning = function (from, to) {
   }
 };
 
-returning(5,10);
+returning(10,12);
 
 const check = function (str, lngt) {
   if (str.length>lngt) {
@@ -19,4 +19,4 @@ const check = function (str, lngt) {
   }
 };
 
-check('dsafds',10);
+check('dasfsa',10);
